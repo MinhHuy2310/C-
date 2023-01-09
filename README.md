@@ -1,4 +1,4 @@
-##BÀI 1
+## BÀI 1
 1. [bài tập mở đầu](https://www.jdoodle.com/iembed/v0/BqU)
 2.
 3.
