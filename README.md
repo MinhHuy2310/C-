@@ -9,7 +9,8 @@
 ## Bài 4
 1. [ lệnh lâp for](https://www.jdoodle.com/embed/v0/5Dhb)
 2. [lệnh lập for](https://www.jdoodle.com/iembed/v0/BBx)
-3.
+3. [BTLT lệnh while](https://www.jdoodle.com/iembed/v0/BZo)
+
 ## Bài 5
 1.
 2.
