@@ -9,9 +9,10 @@
 4. [BTLT IF-SWITCH](https://www.jdoodle.com/iembed/v0/C1p)
 5. [BTLT IF-SWITCH](https://www.jdoodle.com/embed/v0/5I0b)
 ## Bài 4
-1. [ lệnh lâp for](https://www.jdoodle.com/embed/v0/5Dhb)
+1. [lệnh lâp for](https://www.jdoodle.com/embed/v0/5I1V)
 2. [lệnh lập for](https://www.jdoodle.com/iembed/v0/BBx)
-3. [BTLT lệnh while](https://www.jdoodle.com/iembed/v0/BZo)
+3. [lệnh lâp for](https://www.jdoodle.com/embed/v0/5I1V)
+4. [BTLT lệnh while](https://www.jdoodle.com/iembed/v0/BZo)
 ## Bài 5 HÀM
 1.[chưa hoàn thành](https://www.jdoodle.com/iembed/v0/C1I)
 2.
