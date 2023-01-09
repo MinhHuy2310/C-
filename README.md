@@ -7,11 +7,11 @@
 2. [lệnh rẽ nhánh if else2](https://www.jdoodle.com/embed/v0/5B1W)
 3. [lệnh lựa chọn switch](https://www.jdoodle.com/iembed/v0/BBw)
 4. [BTLT IF-SWITCH](https://www.jdoodle.com/iembed/v0/C1p)
+5. [BTLT IF-SWITCH](https://www.jdoodle.com/embed/v0/5I0b)
 ## Bài 4
 1. [ lệnh lâp for](https://www.jdoodle.com/embed/v0/5Dhb)
 2. [lệnh lập for](https://www.jdoodle.com/iembed/v0/BBx)
 3. [BTLT lệnh while](https://www.jdoodle.com/iembed/v0/BZo)
-4. [BTLT lệnh while](https://www.jdoodle.com/embed/v0/5I0b)
 ## Bài 5
 1.
 2.
