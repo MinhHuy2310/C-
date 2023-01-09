@@ -15,8 +15,6 @@
 4. [BTLT lệnh while](https://www.jdoodle.com/iembed/v0/BZo)
 ## Bài 5 HÀM
 1.[chưa hoàn thành](https://www.jdoodle.com/iembed/v0/C1I)
-2.
-3.
 ## Bài 6 MẢNG
 1.
 2.
