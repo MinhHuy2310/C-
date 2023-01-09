@@ -12,11 +12,11 @@
 1. [ lệnh lâp for](https://www.jdoodle.com/embed/v0/5Dhb)
 2. [lệnh lập for](https://www.jdoodle.com/iembed/v0/BBx)
 3. [BTLT lệnh while](https://www.jdoodle.com/iembed/v0/BZo)
-## Bài 5
+## Bài 5 HÀM
 1.
 2.
 3.
-## Bài 6
+## Bài 6 MẢNG
 1.
 2.
 3.
