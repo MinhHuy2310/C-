@@ -1,6 +1,6 @@
-## BÀI 1
+## BÀI 2
 1. [bài tập mở đầu](https://www.jdoodle.com/iembed/v0/BqU)
-2.
+2. [lệnh gán kết hợp](https://www.jdoodle.com/iembed/v0/BZl)
 3.
 ## BÀI 3
 1. [lệnh rẽ nhánh if else](https://www.jdoodle.com/embed/v0/5B2W)
