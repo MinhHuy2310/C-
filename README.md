@@ -13,7 +13,7 @@
 2. [lệnh lập for](https://www.jdoodle.com/iembed/v0/BBx)
 3. [BTLT lệnh while](https://www.jdoodle.com/iembed/v0/BZo)
 ## Bài 5 HÀM
-1.
+1.[chưa hoàn thành](https://www.jdoodle.com/iembed/v0/C1I)
 2.
 3.
 ## Bài 6 MẢNG
